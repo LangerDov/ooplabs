@@ -1,0 +1,17 @@
+<root>
+  <obj Type="Circle" X="503" Y="293" Width="100" Height="100" Color="-16776961" />
+  <obj Type="Circle" X="437" Y="224" Width="100" Height="100" Color="-16776961" />
+  <obj Type="Rect" X="575" Y="121" Width="100" Height="100" Color="-16776961" />
+  <obj Type="Line" X="266" Y="245" Width="100" Height="10" Color="-16776961" />
+  <obj Type="Group" X="210" Y="76" Width="263" Height="110" Color="-16776961">
+    <obj Type="Group" X="210" Y="146" Width="124" Height="110" Color="-16776961">
+      <obj Type="Line" X="210" Y="146" Width="100" Height="10" Color="-16776961" />
+      <obj Type="Line" X="234" Y="246" Width="100" Height="10" Color="-16776961" />
+    </obj>
+    <obj Type="Group" X="210" Y="146" Width="124" Height="110" Color="-16776961">
+      <obj Type="Line" X="210" Y="146" Width="100" Height="10" Color="-16776961" />
+      <obj Type="Line" X="234" Y="246" Width="100" Height="10" Color="-16776961" />
+    </obj>
+    <obj Type="Rect" X="373" Y="76" Width="100" Height="100" Color="-16776961" />
+  </obj>
+</root>
